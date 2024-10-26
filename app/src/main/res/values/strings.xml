@@ -1,0 +1,8 @@
+<resources>
+    <string name="QRScanner">QRScanner</string>
+    <string name="Escaneando">Scanning</string>
+    <string name="app_name">QRScanner</string>
+    <string name="ApagarFlash">Light off</string>
+    <string name="EncenderFlash">Light on</string>
+
+</resources>

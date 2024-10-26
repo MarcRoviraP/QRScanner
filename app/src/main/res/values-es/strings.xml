@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="QRScanner">Escaner QR</string>
+    <string name="Escaneando">Escaneando</string>
+    <string name="app_name">Escaner QR</string>
+    <string name="ApagarFlash">Apagar Flash</string>
+    <string name="EncenderFlash">Apagar Flash</string>
+</resources>
